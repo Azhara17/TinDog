@@ -1,2 +1,1 @@
-# TinDog
-Dog meeting app
+TinDog Starting Files
